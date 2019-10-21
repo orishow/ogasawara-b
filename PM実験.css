@@ -1,0 +1,13 @@
+body  {background-color: black;
+       background-image: url("https://www.amazon.co.jp/BUFFALO-WHR-1166DHP4-%E3%80%90iPhoneX-iPhoneXS%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E5%8B%95%E4%BD%9C%E7%A2%BA%E8%AA%8D%E6%B8%88%E3%81%BF%E3%80%91/dp/B071CWZRSQ/ref=sr_1_2?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&keywords=AirStation+HighPower+Giga+WHR-1166DHP4&qid=1571624954&sr=8-2");
+       background=repeat: repeat-x;
+       color: #FFFFFF; font-weight: bold;}
+h1    {color: red;  font-weight:10px; background-color: yellow }
+h2    {color: #FFFFFF; background-color: chocolate; text-shadow: 2px 2px #000000;}
+h3
+h4
+h5
+h6
+h7
+p     {color: #8b0000; font: 18pt fantasy; font-style: normal;}
+ul    {color: gold; font; font-size: large; list-style-type: decimal;}
