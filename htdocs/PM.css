@@ -1,14 +1,16 @@
-body  {background-image:url("wifi.jpg");
-       background-size:100% 100%;
+body  {background-size:100% 100%;
        background-repeat:no-repeat;
-       color: #FFFFFF; font-weight: bold;
-       background-clip:border-box;}
-h1    {color: red;  font-size: 50px ;}
+       font-weight: bold;
+       background-clip:border-box;
+       padding:0 0 0 3%;}
+
+
+h1    {color: black;  font-size: 50px ;}
 h2    {color: #FFFFFF; background-color: blue;}
 h3    {color: red;  font-size: 40px ;} 
-h4
-h5
-h6
-h7
-p     {color: #8b0000; font-size: 18px fantasy; font-style: normal;}
+h4    {color: blue; font-size: 20px ;}
+h5    {color: green; font-size: 20px ;}
+h6    {color: powderblue; font-size: 30px ;}
+h7    {color: red; font-size: 40px ;}
+p     {color: BLACK; font-size: 30px; font-style: normal;}
 ul    {color: gold; font; font-size: large; list-style-type: decima
